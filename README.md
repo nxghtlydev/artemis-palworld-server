@@ -1,5 +1,3 @@
-### Artemis Palworld Server
-
 # Artemis Palworld Server
 
 Artemis Palworld Server is an open-source server-side mod for **Palworld**, built with **UE4SS** and Lua.
